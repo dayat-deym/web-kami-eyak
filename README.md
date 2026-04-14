@@ -1,2 +1,2 @@
 # web-kami-eyak
-eyak
+terima kasih
